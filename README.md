@@ -1,5 +1,7 @@
 # CivicPulse — AI Smart City Intelligence Platform
 
+deployed link : https://smart-city-civic.vercel.app/
+
 CivicPulse is a smart-city project designed to make it easier for residents to report local problems and for city teams to understand, prioritize, and track them. It brings civic complaints, AI-assisted classification, location-based views, and analytics into one platform.
 
 The goal is simple: help communities and city administrators turn everyday civic issues into reports that can be routed and followed through to resolution.
